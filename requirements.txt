@@ -2,3 +2,4 @@ fyers-apiv3
 streamlit
 pandas
 datetime
+setuptools
